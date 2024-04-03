@@ -4,7 +4,7 @@
 
 | Category            | Project                                        | Description | Links   |
 | ------------------- | ---------------------------------------------- | ----------- | ------- |
-| **Robotics**        | Mobile Robot SLAM and Exploration              | -           | -       |
+| **Robotics**        | Mobile Robot SLAM and Exploration              | ![c++](https://icons8.com/icon/40669/c%2B%2B)           | -       |
 |                     | Object Detection 5 DOF Robot Arm               | -           | -       |
 |                     | SO-SLAM                                        | -           | [GitHub](https://github.com/MRHan-426/SOSLAM)       |
 |                     | Point Feature Histogram                        | -           | [GitHub](https://github.com/yi-cheng-liu/point_feature_histogram)|
