@@ -2,7 +2,7 @@
 
 ![yi-cheng liu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yi-cheng-liu&show_icons=true&hide_border=false&title_color=FFCB05&icon_color=FFCB05&bg_color=00274C&text_color=ffffff)
 
-![linkedin](./icons/icons8-linkedin.svg) [Connect](https://linkedin.com/in/yi-cheng-liu)
+Weklcome to connect with me on Linkedin [![linkedin](./icons/icons8-linkedin.svg)](https://linkedin.com/in/yi-cheng-liu)
 
 ## I'm a Graduate Student Reasearch Assistant and Developer
 
